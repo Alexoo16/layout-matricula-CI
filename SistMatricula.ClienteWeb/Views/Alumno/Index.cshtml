@@ -1,0 +1,62 @@
+﻿@model IEnumerable<SistMatricula.Entidades.Core.Alumno>
+
+@{
+    ViewBag.Title = "Lista de Alumnos";
+}
+
+<div class="box">
+    <div class="box-header">
+        <h3 class="box-title">Lista de Alumnos</h3>
+        <div class="box-tools">
+            <div class="input-group input-group-sm" style="width: 250px;">
+                <input type="text" name="table_search" class="form-control pull-right" placeholder="Buscar">
+                <div class="input-group-btn">
+                    <button type="submit" class="btn btn-default">
+                        <i class="fa fa-search"></i>
+                    </button>
+                    <a href="@Url.Action("Create", "Alumno")" class="btn btn-primary">
+                        <i class="fa fa-plus"></i> Crear Nuevo
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="box-body table-responsive no-padding">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.IdAlumno)</th>
+                    <th>@Html.DisplayNameFor(model => model.Nombres)</th>
+                    <th>@Html.DisplayNameFor(model => model.ApellidoPat)</th>
+                    <th>@Html.DisplayNameFor(model => model.ApellidoMat)</th>
+                    <th>@Html.DisplayNameFor(model => model.Dni)</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.IdAlumno)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Nombres)</td>
+                        <td>@Html.DisplayFor(modelItem => item.ApellidoPat)</td>
+                        <td>@Html.DisplayFor(modelItem => item.ApellidoMat)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Dni)</td>
+                        <td>
+                            <a href="@Url.Action("Edit", "Alumno", new { id = item.IdAlumno })" class="btn btn-warning btn-sm">
+                                <i class="fa fa-edit"></i> Editar
+                            </a>
+                            <a href="@Url.Action("Details", "Alumno", new { id = item.IdAlumno })" class="btn btn-info btn-sm">
+                                <i class="fa fa-info-circle"></i> Detalles
+                            </a>
+                            <a href="@Url.Action("Delete", "Alumno", new { id = item.IdAlumno })" class="btn btn-danger btn-sm">
+                                <i class="fa fa-trash"></i> Eliminar
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
