@@ -3,48 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.clienteweb\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|solutionrelative:sistmatricula.clienteweb\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.clienteweb\\views\\alumno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\sistmatricula.clienteweb\\views\\alumno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|solutionrelative:sistmatricula.clienteweb\\views\\alumno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27355142-16B6-42C1-86C5-6E67BF78FC68}|SistMatricula.AccesoDatos\\SistMatricula.AccesoDatos.csproj|C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\sistmatricula.accesodatos\\core\\alumnoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27355142-16B6-42C1-86C5-6E67BF78FC68}|SistMatricula.AccesoDatos\\SistMatricula.AccesoDatos.csproj|solutionrelative:sistmatricula.accesodatos\\core\\alumnoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\sistmatricula.entidades\\core\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|solutionrelative:sistmatricula.entidades\\core\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{208109F2-9DCB-47F3-AA2F-A95E9FFAFAEA}|SistMatricula.LogicaNegocio\\SistMatricula.LogicaNegocio.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.logicanegocio\\core\\alumnoln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{208109F2-9DCB-47F3-AA2F-A95E9FFAFAEA}|SistMatricula.LogicaNegocio\\SistMatricula.LogicaNegocio.csproj|solutionrelative:sistmatricula.logicanegocio\\core\\alumnoln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{208109F2-9DCB-47F3-AA2F-A95E9FFAFAEA}|SistMatricula.LogicaNegocio\\SistMatricula.LogicaNegocio.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.logicanegocio\\core\\alumnoposgradoln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208109F2-9DCB-47F3-AA2F-A95E9FFAFAEA}|SistMatricula.LogicaNegocio\\SistMatricula.LogicaNegocio.csproj|solutionrelative:sistmatricula.logicanegocio\\core\\alumnoposgradoln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\sistmatricula.clienteweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|solutionrelative:sistmatricula.clienteweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{27355142-16B6-42C1-86C5-6E67BF78FC68}|SistMatricula.AccesoDatos\\SistMatricula.AccesoDatos.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.accesodatos\\core\\alumnoposgradoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27355142-16B6-42C1-86C5-6E67BF78FC68}|SistMatricula.AccesoDatos\\SistMatricula.AccesoDatos.csproj|solutionrelative:sistmatricula.accesodatos\\core\\alumnoposgradoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\sistmatricula.clienteweb\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|solutionrelative:sistmatricula.clienteweb\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.entidades\\core\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|solutionrelative:sistmatricula.entidades\\core\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.entidades\\core\\asistenteatencionpublico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|solutionrelative:sistmatricula.entidades\\core\\asistenteatencionpublico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.entidades\\core\\asistentecoordinacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|solutionrelative:sistmatricula.entidades\\core\\asistentecoordinacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.entidades\\core\\alumnoposgrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|solutionrelative:sistmatricula.entidades\\core\\alumnoposgrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\sistmatricula.clienteweb\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|solutionrelative:sistmatricula.clienteweb\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.entidades\\filter\\exceptionfilteratributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|solutionrelative:sistmatricula.entidades\\filter\\exceptionfilteratributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.entidades\\variablesweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|solutionrelative:sistmatricula.entidades\\variablesweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.entidades\\core\\opcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|solutionrelative:sistmatricula.entidades\\core\\opcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5EE261-119B-4883-8D4C-CA6CB20D2FFB}|SistMatricula.Utiles\\SistMatricula.Utiles.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.utiles\\helpers\\encriptaci\u00F3nhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5EE261-119B-4883-8D4C-CA6CB20D2FFB}|SistMatricula.Utiles\\SistMatricula.Utiles.csproj|solutionrelative:sistmatricula.utiles\\helpers\\encriptaci\u00F3nhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.clienteweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|solutionrelative:sistmatricula.clienteweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.entidades\\base\\baseln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|solutionrelative:sistmatricula.entidades\\base\\baseln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\sistmatricula.clienteweb\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|solutionrelative:sistmatricula.clienteweb\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\sistmatricula.entidades\\core\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|solutionrelative:sistmatricula.entidades\\core\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|c:\\users\\alexoo\\source\\repos\\sistemamatricula\\sistmatricula.clienteweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\sistmatricula.clienteweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|solutionrelative:sistmatricula.clienteweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\sistmatricula.entidades\\core\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|solutionrelative:sistmatricula.entidades\\core\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\sistmatricula.entidades\\base\\baseln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797CED4B-E494-4145-94FC-E97A8F59E58D}|SistMatricula.Entidades\\SistMatricula.Entidades.csproj|solutionrelative:sistmatricula.entidades\\base\\baseln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\sistmatricula.clienteweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.Cliente.Web.csproj|solutionrelative:sistmatricula.clienteweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{811FE9D3-F711-46A9-AFBB-43CC317291C4}|SistMatricula.ClienteWeb\\SistMatricula.ClienteWeb.csproj|C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\sistmatricula.clienteweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -62,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,111 +98,227 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Views\\Alumno\\Index.cshtml",
-              "RelativeDocumentMoniker": "SistMatricula.ClienteWeb\\Views\\Alumno\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Views\\Alumno\\Index.cshtml",
-              "RelativeToolTip": "SistMatricula.ClienteWeb\\Views\\Alumno\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T15:54:55.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BaseLN.cs",
-              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Base\\BaseLN.cs",
-              "RelativeDocumentMoniker": "SistMatricula.Entidades\\Base\\BaseLN.cs",
-              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Base\\BaseLN.cs",
-              "RelativeToolTip": "SistMatricula.Entidades\\Base\\BaseLN.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistMatricula.Entidades\\Core\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\Usuario.cs",
+              "RelativeToolTip": "SistMatricula.Entidades\\Core\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:40:26.703Z",
+              "WhenOpened": "2024-10-28T21:41:26.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AlumnoLN.cs",
-              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.LogicaNegocio\\Core\\AlumnoLN.cs",
-              "RelativeDocumentMoniker": "SistMatricula.LogicaNegocio\\Core\\AlumnoLN.cs",
-              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.LogicaNegocio\\Core\\AlumnoLN.cs",
-              "RelativeToolTip": "SistMatricula.LogicaNegocio\\Core\\AlumnoLN.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:39:06.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Web.config",
-              "RelativeDocumentMoniker": "SistMatricula.ClienteWeb\\Web.config",
-              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Web.config",
-              "RelativeToolTip": "SistMatricula.ClienteWeb\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-28T15:35:36.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SistMatricula.ClienteWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SistMatricula.ClienteWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFIBAAAAAAAAAAAAAFECAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T03:13:22.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AlumnoDA.cs",
-              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.AccesoDatos\\Core\\AlumnoDA.cs",
-              "RelativeDocumentMoniker": "SistMatricula.AccesoDatos\\Core\\AlumnoDA.cs",
-              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.AccesoDatos\\Core\\AlumnoDA.cs",
-              "RelativeToolTip": "SistMatricula.AccesoDatos\\Core\\AlumnoDA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "AlumnoPosgradoDA.cs",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.AccesoDatos\\Core\\AlumnoPosgradoDA.cs",
+              "RelativeDocumentMoniker": "SistMatricula.AccesoDatos\\Core\\AlumnoPosgradoDA.cs",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.AccesoDatos\\Core\\AlumnoPosgradoDA.cs",
+              "RelativeToolTip": "SistMatricula.AccesoDatos\\Core\\AlumnoPosgradoDA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T01:30:05.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Alumno.cs",
-              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\Alumno.cs",
-              "RelativeDocumentMoniker": "SistMatricula.Entidades\\Core\\Alumno.cs",
-              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\Alumno.cs",
-              "RelativeToolTip": "SistMatricula.Entidades\\Core\\Alumno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AlumnoPosgradoLN.cs",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.LogicaNegocio\\Core\\AlumnoPosgradoLN.cs",
+              "RelativeDocumentMoniker": "SistMatricula.LogicaNegocio\\Core\\AlumnoPosgradoLN.cs",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.LogicaNegocio\\Core\\AlumnoPosgradoLN.cs",
+              "RelativeToolTip": "SistMatricula.LogicaNegocio\\Core\\AlumnoPosgradoLN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:39:06.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\Curso.cs",
+              "RelativeDocumentMoniker": "SistMatricula.Entidades\\Core\\Curso.cs",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\Curso.cs",
+              "RelativeToolTip": "SistMatricula.Entidades\\Core\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:40:55.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AsistenteCoordinacion.cs",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\AsistenteCoordinacion.cs",
+              "RelativeDocumentMoniker": "SistMatricula.Entidades\\Core\\AsistenteCoordinacion.cs",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\AsistenteCoordinacion.cs",
+              "RelativeToolTip": "SistMatricula.Entidades\\Core\\AsistenteCoordinacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:37:33.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExceptionFilterAtributes.cs",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Filter\\ExceptionFilterAtributes.cs",
+              "RelativeDocumentMoniker": "SistMatricula.Entidades\\Filter\\ExceptionFilterAtributes.cs",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Filter\\ExceptionFilterAtributes.cs",
+              "RelativeToolTip": "SistMatricula.Entidades\\Filter\\ExceptionFilterAtributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:21:29.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VariablesWeb.cs",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\VariablesWeb.cs",
+              "RelativeDocumentMoniker": "SistMatricula.Entidades\\VariablesWeb.cs",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\VariablesWeb.cs",
+              "RelativeToolTip": "SistMatricula.Entidades\\VariablesWeb.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:24:23.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Opcion.cs",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\Opcion.cs",
+              "RelativeDocumentMoniker": "SistMatricula.Entidades\\Core\\Opcion.cs",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\Opcion.cs",
+              "RelativeToolTip": "SistMatricula.Entidades\\Core\\Opcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:20:09.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlumnoPosgrado.cs",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\AlumnoPosgrado.cs",
+              "RelativeDocumentMoniker": "SistMatricula.Entidades\\Core\\AlumnoPosgrado.cs",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\AlumnoPosgrado.cs",
+              "RelativeToolTip": "SistMatricula.Entidades\\Core\\AlumnoPosgrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T02:40:55.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Encriptaci\u00F3nHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Utiles\\Helpers\\Encriptaci\u00F3nHelper.cs",
+              "RelativeDocumentMoniker": "SistMatricula.Utiles\\Helpers\\Encriptaci\u00F3nHelper.cs",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Utiles\\Helpers\\Encriptaci\u00F3nHelper.cs",
+              "RelativeToolTip": "SistMatricula.Utiles\\Helpers\\Encriptaci\u00F3nHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:28:07.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Web.config",
+              "RelativeDocumentMoniker": "SistMatricula.ClienteWeb\\Web.config",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Web.config",
+              "RelativeToolTip": "SistMatricula.ClienteWeb\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T15:35:36.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Views\\Alumno\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistMatricula.ClienteWeb\\Views\\Alumno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Views\\Alumno\\Index.cshtml",
+              "RelativeToolTip": "SistMatricula.ClienteWeb\\Views\\Alumno\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T15:54:55.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsistenteAtencionPublico.cs",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\AsistenteAtencionPublico.cs",
+              "RelativeDocumentMoniker": "SistMatricula.Entidades\\Core\\AsistenteAtencionPublico.cs",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\AsistenteAtencionPublico.cs",
+              "RelativeToolTip": "SistMatricula.Entidades\\Core\\AsistenteAtencionPublico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:36:11.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistMatricula.ClienteWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistMatricula.ClienteWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAnwLMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T03:13:22.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AlumnoController.cs",
               "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Controllers\\AlumnoController.cs",
               "RelativeDocumentMoniker": "SistMatricula.ClienteWeb\\Controllers\\AlumnoController.cs",
               "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Controllers\\AlumnoController.cs",
               "RelativeToolTip": "SistMatricula.ClienteWeb\\Controllers\\AlumnoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T02:51:09.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
+              "Title": "BaseLN.cs",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Base\\BaseLN.cs",
+              "RelativeDocumentMoniker": "SistMatricula.Entidades\\Base\\BaseLN.cs",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Base\\BaseLN.cs",
+              "RelativeToolTip": "SistMatricula.Entidades\\Base\\BaseLN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:40:26.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Global.asax.cs",
+              "RelativeDocumentMoniker": "SistMatricula.ClienteWeb\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Global.asax.cs",
+              "RelativeToolTip": "SistMatricula.ClienteWeb\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:23:50.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "SistMatricula.ClienteWeb\\Views\\Shared\\Error.cshtml",
@@ -182,12 +326,11 @@
               "RelativeToolTip": "SistMatricula.ClienteWeb\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T07:01:04.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T07:01:04.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "BundleConfig.cs",
               "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "SistMatricula.ClienteWeb\\App_Start\\BundleConfig.cs",
@@ -199,33 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Global.asax.cs",
-              "RelativeDocumentMoniker": "SistMatricula.ClienteWeb\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Global.asax.cs",
-              "RelativeToolTip": "SistMatricula.ClienteWeb\\Global.asax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:23:50.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Curso.cs",
-              "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\Curso.cs",
-              "RelativeDocumentMoniker": "SistMatricula.Entidades\\Core\\Curso.cs",
-              "ToolTip": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.Entidades\\Core\\Curso.cs",
-              "RelativeToolTip": "SistMatricula.Entidades\\Core\\Curso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T02:40:55.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\Alexoo\\source\\repos\\SistemaMatricula\\SistMatricula.ClienteWeb\\Web.config",
               "RelativeDocumentMoniker": "SistMatricula.ClienteWeb\\Web.config",

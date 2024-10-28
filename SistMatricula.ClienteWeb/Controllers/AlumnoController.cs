@@ -13,8 +13,8 @@ namespace SistMatricula.ClienteWeb.Controllers
         // GET: Aumno
         public ActionResult Index()
         {
-            List<Alumno> alumnos = new List<Alumno>();
-            alumnos = new AlumnoLN().ListaAlumnos();
+            List<AlumnoPosgrado> alumnos = new List<AlumnoPosgrado>();
+            alumnos = new AlumnoPosgradoLN().ListaAlumnos();
             return View(alumnos);
         }
 
