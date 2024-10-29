@@ -41,3 +41,6 @@ C:\Users\Alexoo\source\repos\SistemaMatricula\SistMatricula.LogicaNegocio\bin\De
 C:\Users\Alexoo\source\repos\SistemaMatricula\SistMatricula.LogicaNegocio\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
 C:\Users\Alexoo\source\repos\SistemaMatricula\SistMatricula.LogicaNegocio\bin\Debug\es\System.Web.Razor.resources.dll
 C:\Users\Alexoo\source\repos\SistemaMatricula\SistMatricula.LogicaNegocio\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alexoo\source\repos\SistemaMatricula\SistMatricula.LogicaNegocio\bin\Debug\System.Web.Helpers.dll
+C:\Users\Alexoo\source\repos\SistemaMatricula\SistMatricula.LogicaNegocio\bin\Debug\System.Web.Helpers.xml
+C:\Users\Alexoo\source\repos\SistemaMatricula\SistMatricula.LogicaNegocio\bin\Debug\es\System.Web.Helpers.resources.dll

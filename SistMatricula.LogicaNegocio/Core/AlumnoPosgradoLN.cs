@@ -11,6 +11,7 @@ namespace SistMatricula.LogicaNegocio.Core
 {
     public class AlumnoPosgradoLN : BaseLN
     {
+        /*
         public List<AlumnoPosgrado> ListaAlumnos()
         {
             try
@@ -20,6 +21,16 @@ namespace SistMatricula.LogicaNegocio.Core
             }
             catch (Exception ex)
             {
+                throw ex;
+            }
+        }*/
+        public AlumnoPosgrado BuscarAlumnoPosgrado(Usuario alumno)
+        {
+            try
+            {
+                AlumnoPosgradoDA alumnoDA = new AlumnoPosgradoDA();
+                return alumnoDA.BuscarAlumnoPosgrado(alumno);
+            } catch(Exception ex) {
                 throw ex;
             }
         }

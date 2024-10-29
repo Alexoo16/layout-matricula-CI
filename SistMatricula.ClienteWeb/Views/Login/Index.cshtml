@@ -1,0 +1,73 @@
+﻿@model SistMatricula.Entidades.Core.Usuario
+
+@{
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<body class="bg-gradient-primary">
+    <div class="container">
+        <!-- Outer Row -->
+        <div class="row justify-content-center">
+            <div class="col-xl-10 col-lg-12 col-md-9">
+                <div class="card o-hidden border-0 shadow-lg my-5">
+                    <div class="card-body p-0">
+                        <!-- Nested Row within Card Body -->
+                        <div class="row">
+                            <div class="col-lg-6 d-none d-lg-block bg-login-image"></div>
+                            <div class="col-lg-6">
+                                <div class="p-5">
+                                    <div class="text-center">
+                                        <h1 class="h4 text-gray-900 mb-4">Bienvenido!</h1>
+                                    </div>
+                                    <!-- Formulario ASP.NET MVC -->
+                                    <form asp-action="Index" method="post" class="user">
+                                        <!-- Campo DNI -->
+                                        <div class="form-group">
+                                            @Html.TextBoxFor(m => m.Dni, new { @class = "form-control form-control-user", @placeholder = "Ingrese DNI...", @pattern = "\\d{8}", @title = "El DNI debe tener 8 dígitos", @required = "required" })
+                                        </div>
+                                        <!-- Campo Contraseña -->
+                                        <div class="form-group">
+                                            @Html.PasswordFor(m => m.ContrasenaTexto, new { @class = "form-control form-control-user", @placeholder = "Contraseña", @required = "required" })
+                                        </div>
+                                        <!-- Campo de Selección de Rol -->
+                                        <div class="form-group">
+                                            <label class="d-block font-weight-bold text-gray-900 mb-2">Seleccione su rol:</label>
+                                            <div class="custom-control custom-radio">
+                                                <input type="radio" class="custom-control-input" id="alumnoPosgrado" name="role" onclick="setRole(3)" required>
+                                                <label class="custom-control-label" for="alumnoPosgrado">Alumno Posgrado</label>
+                                            </div>
+                                            <div class="custom-control custom-radio">
+                                                <input type="radio" class="custom-control-input" id="asistenteCoordinacion" name="role" onclick="setRole(1)">
+                                                <label class="custom-control-label" for="asistenteCoordinacion">Asistente de Coordinación</label>
+                                            </div>
+                                            <div class="custom-control custom-radio">
+                                                <input type="radio" class="custom-control-input" id="asistenteAtencion" name="role" onclick="setRole(4)">
+                                                <label class="custom-control-label" for="asistenteAtencion">Asistente de Atención al Público</label>
+                                            </div>
+                                            <div class="custom-control custom-radio">
+                                                <input type="radio" class="custom-control-input" id="coordinador" name="role" onclick="setRole(2)">
+                                                <label class="custom-control-label" for="coordinador">Coordinador</label>
+                                            </div>
+                                        </div>
+
+                                        <!-- Campo Oculto TipoUsuario -->
+                                        @Html.Hidden("TipoUsuario", 0, new { id = "TipoUsuario" })
+
+                                        <!-- Botón de Envío -->
+                                        <button type="submit" class="btn btn-primary btn-user btn-block">Login</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function setRole(value) {
+            document.getElementById("TipoUsuario").value = value;
+        }
+    </script>
+</body>

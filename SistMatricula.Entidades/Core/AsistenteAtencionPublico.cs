@@ -8,7 +8,7 @@ namespace SistMatricula.Entidades.Core
 {
     public class AsistenteAtencionPublico : Usuario
     {
-        public int Id { get; set; }
+        
     }
 
 }

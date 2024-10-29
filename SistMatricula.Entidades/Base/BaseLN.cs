@@ -4,10 +4,12 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.Mvc;
+using log4net;
 
 namespace SistMatricula.Entidades.Base
 {
-    public class BaseLN
+    public class BaseLN : Controller
     {
         protected log4net.ILog Log
         {

@@ -70,6 +70,7 @@
     <Compile Include="Core\AlumnoPosgrado.cs" />
     <Compile Include="Core\AsistenteAtencionPublico.cs" />
     <Compile Include="Core\AsistenteCoordinacion.cs" />
+    <Compile Include="Core\Coordinador.cs" />
     <Compile Include="Core\Curso.cs" />
     <Compile Include="Core\Opcion.cs" />
     <Compile Include="Core\Usuario.cs" />

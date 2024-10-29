@@ -8,6 +8,7 @@ namespace SistMatricula.Entidades.Core
 {
     public class Usuario
     {
+        public int Id { get; set; }
         public int TipoUsuario { get; set; }
         public string Nombres { get; set; }
         public string ApellidoPat { get; set; }
